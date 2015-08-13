@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pole_kwadratu">PoleKwadratuActivity</string>
+    <string name="title_activity_pole_prostokata">PoleProstokataActivity</string>
+    <string name="title_activity_pole_kola">PoleKolaActivity</string>
+    <string name="title_activity_pole_trojkata">PoleTrojkataActivity</string>
+</resources>
